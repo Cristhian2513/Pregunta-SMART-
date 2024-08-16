@@ -1,0 +1,7 @@
+Cristhian Rodriguez
+Niveles de venta en el punto
+
+Problemática: Actualmente la empresa presenta niveles de venta en el punto físico por debajo del 5%, productos con poca identificación por parte del cliente y con poca rotación tanto diaria como mensualmente.
+Métrica: Unidades 
+Pregunta SMART: ¿Cómo aumentar las ventas de los productos de cada linea que representan una baja rotación en un 5% durante el próximo trimestre mediante promociones especiales y estrategias de visibilidad en el punto de venta?
+Requerimientos de los datos: El nivel de ventas relacionadas a cada producto, el costo, precio de venta, la linea a la que pertenece el producto.
